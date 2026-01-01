@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dCKNLtVU+jk=",
+  "dgSpecHash": "+ujPN0+mljs=",
   "success": true,
   "projectFilePath": "/home/theokyle/workspace/udemy/datingapp/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/theokyle/.nuget/packages/cloudinarydotnet/1.27.9/cloudinarydotnet.1.27.9.nupkg.sha512",
     "/home/theokyle/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/theokyle/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.1/microsoft.aspnetcore.authentication.jwtbearer.10.0.1.nupkg.sha512",
     "/home/theokyle/.nuget/packages/microsoft.build/17.7.2/microsoft.build.17.7.2.nupkg.sha512",
