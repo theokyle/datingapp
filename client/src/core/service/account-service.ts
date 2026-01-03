@@ -10,7 +10,6 @@ import { environment } from '../../environments/environment';
 export class AccountService {
   private http = inject(HttpClient)
   currentUser = signal<User | null>(null);
-
   private baseUrl = environment.apiUrl;
 
   register(creds: RegisterCreds) {
